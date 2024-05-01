@@ -25,7 +25,6 @@ section {
   isolation: isolate;
 }
 .top-container {
-  background-color: red;
   background-image: url("/images/top/sectionbg.png");
   background-repeat: no-repeat;
   background-size: cover;
